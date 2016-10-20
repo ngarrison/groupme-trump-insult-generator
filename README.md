@@ -74,6 +74,7 @@ Feel free to send in Pull Requests or to e-mail me at `phrmsilva@gmail.com` to f
 I'll try to keep an updated list here of the known issues.
 
 - For some strategies, the spaces before and after commas are inconsistent.
+- Need to update the strategies and add more content.
 
 
 ### Disclaimer
