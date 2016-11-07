@@ -57,7 +57,7 @@ Now your github account should up under `Search a repository to connect to`. Typ
 
 Now go back to the top, and select the `Settings` tab. Now we'll need to set up out bot's ID. Under `Config Variables`, click on `Reveal Config Vars`. In a new option, set `KEY` to `BOT_ID` and `VALUE` to your bot's id from the Groupme bot page. Finally, hit `Add`.
 
-Scroll down a bit and you'll see the `Domains section`. Copy the link under `Heroku Domain`, it should be something like `http://your-app-name-here.heroku.com`. That will be our Groupme's bot callback URL.
+Scroll down a bit and you'll see the `Domains section`. Copy the link under `Heroku Domain`, it should be something like `http://your-app-name-here.herokuapp.com`. That will be our Groupme's bot callback URL.
 
 ----
 
