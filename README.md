@@ -69,7 +69,7 @@ Boom, your bot should be working. Feel free to try it out on your Groupme and ha
 
 ## Improving this
 
-Feel free to send in Pull Requests or to e-mail me at `phrmsilva@gmail.com` to fix any bugs in the code or suggest improvements for the instructions. I haven't tried the guide myself, as I typed most of it from memory. 
+Feel free to send in Pull Requests or to e-mail me at `(my github username) at gmail dot com` to fix any bugs in the code or suggest improvements for the instructions. I haven't tried the guide myself, as I typed most of it from memory. 
 
 I'll try to keep an updated list here of the known issues.
 
