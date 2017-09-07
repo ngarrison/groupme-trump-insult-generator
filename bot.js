@@ -7,7 +7,7 @@ var botID = process.env.BOT_ID;
 
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
-      trumpCommand = 'Trump insult';
+      trumpCommand = 'Trump insult'; trumpCommand = 'Trump what do you think of'
 
   var name;
 
